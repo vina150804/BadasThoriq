@@ -1,0 +1,2 @@
+# BadasThoriq
+Inspired by Badassatron
